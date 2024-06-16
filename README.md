@@ -1,3 +1,3 @@
-# bot-wa
+# WHATSAPP BOT
 
 BOT BY @RAINMC
